@@ -15,7 +15,26 @@ You can try and replicate by directly visiting the [website](https://tesla.com/)
 
 ### Landing Page 
 
-![home page]()
+The landing page should have the functional nav bar redirecting to all the cars and roof pages 
+
+![landing page](https://raw.githubusercontent.com/codedamn-projects/tesla-clone/master/designs/preview%20image%20%5BDESKTOP%5D.png)
+
+### Mobile menu for landing page 
+
+The menu for mobile version should be responsive
+
+![mobile menu](https://raw.githubusercontent.com/codedamn-projects/tesla-clone/master/designs/Mobile%20Menu%20%5BMOBILE%5D.png)
+
+#### item page 
+
+On the items pages there should a side bar showing the number of snaps and taking them to the element on clicking from here. 
+
+![side nav](https://raw.githubusercontent.com/codedamn-projects/tesla-clone/master/designs/Solar%20Roof%20%5BDESKTOP%5D.png)
+
+#### Scroll snapping (for mobile and desktop)
+
+![scroll snapping](https://github.com/codedamn-projects/tesla-clone/blob/master/designs/scroll%20snap.gif?raw=true)
+
 
 
 ### Ports 
